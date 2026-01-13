@@ -1,4 +1,4 @@
-module github.com/reggie-db/portr
+module github.com/reggie-db/portr/tunnel
 
 go 1.24.0
 
