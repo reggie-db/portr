@@ -1,4 +1,4 @@
-module github.com/amalshaji/portr
+module github.com/reggie-db/portr
 
 go 1.24.0
 
