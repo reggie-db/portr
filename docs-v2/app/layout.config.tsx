@@ -20,7 +20,7 @@ export const baseOptions: BaseLayoutProps = {
   links: [
     {
       text: "GitHub",
-      url: "https://github.com/amalshaji/portr",
+      url: "https://github.com/reggie-db/portr",
       active: "nested-url",
     },
   ],

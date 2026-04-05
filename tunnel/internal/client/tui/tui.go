@@ -5,7 +5,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/amalshaji/portr/internal/client/config"
+	"github.com/reggie-db/portr/internal/client/config"
 	"github.com/charmbracelet/bubbles/table"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"

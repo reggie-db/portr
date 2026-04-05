@@ -20,11 +20,17 @@
         "url": "https://portr.dev"
       },
       "repositoryUrl": {
-        "url": "https://github.com/amalshaji/portr",
-        "wellKnown": "https://github.com/amalshaji/portr/blob/main/.well-known/funding-manifest-urls"
+        "url": "https://github.com/reggie-db/portr",
+        "wellKnown": "https://github.com/reggie-db/portr/blob/main/.well-known/funding-manifest-urls"
       },
-      "licenses": ["AGPL-3.0"],
-      "tags": ["networking", "proxy", "tunnel"]
+      "licenses": [
+        "AGPL-3.0"
+      ],
+      "tags": [
+        "networking",
+        "proxy",
+        "tunnel"
+      ]
     }
   ],
   "funding": {
@@ -45,7 +51,9 @@
         "amount": 3000,
         "currency": "USD",
         "frequency": "monthly",
-        "channels": ["other"]
+        "channels": [
+          "other"
+        ]
       },
       {
         "guid": "angel-plan",
@@ -55,7 +63,9 @@
         "amount": 1000,
         "currency": "USD",
         "frequency": "one-time",
-        "channels": ["other"]
+        "channels": [
+          "other"
+        ]
       }
     ],
     "history": [

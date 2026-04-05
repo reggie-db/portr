@@ -17,7 +17,7 @@ FROM alpine:3.20 AS final
 LABEL maintainer="Amal Shaji" \
     org.opencontainers.image.title="Portr Tunnel" \
     org.opencontainers.image.description="Tunnel server for Portr" \
-    org.opencontainers.image.source="https://github.com/amalshaji/portr"
+    org.opencontainers.image.source="https://github.com/reggie-db/portr"
 
 WORKDIR /app
 

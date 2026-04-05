@@ -13,9 +13,3 @@ run-migrations:
 runserver:
 	make run-migrations
 	uvicorn main:app --reload
-
-installclient:
-	pnpm --dir web install
-
-runclient:
-	pnpm --dir web dev

@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/amalshaji/portr/internal/server/config"
-	"github.com/amalshaji/portr/internal/server/db"
-	"github.com/amalshaji/portr/internal/server/service"
+	"github.com/reggie-db/portr/internal/server/config"
+	"github.com/reggie-db/portr/internal/server/db"
+	"github.com/reggie-db/portr/internal/server/service"
 	"github.com/charmbracelet/log"
 )
 

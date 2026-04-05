@@ -3,7 +3,7 @@ package db
 import (
 	"log"
 
-	"github.com/amalshaji/portr/internal/server/config"
+	"github.com/reggie-db/portr/internal/server/config"
 	_ "github.com/mattn/go-sqlite3"
 	"gorm.io/driver/postgres"
 	"gorm.io/driver/sqlite"

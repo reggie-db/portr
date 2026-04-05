@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/amalshaji/portr/internal/server/db"
+	"github.com/reggie-db/portr/internal/server/db"
 	"github.com/charmbracelet/log"
 	"gorm.io/gorm"
 )

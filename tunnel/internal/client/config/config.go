@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/amalshaji/portr/internal/constants"
-	"github.com/amalshaji/portr/internal/utils"
+	"github.com/reggie-db/portr/internal/constants"
+	"github.com/reggie-db/portr/internal/utils"
 	"github.com/go-resty/resty/v2"
 	"github.com/labstack/gommon/color"
 	"gopkg.in/yaml.v3"
@@ -62,7 +62,6 @@ type Config struct {
 	Tunnels               []Tunnel `yaml:"tunnels"`
 	UseLocalHost          bool     `yaml:"use_localhost"`
 	Debug                 bool     `yaml:"debug"`
-	UseVite               bool     `yaml:"use_vite"`
 	EnableRequestLogging  bool     `yaml:"enable_request_logging"`
 	HealthCheckInterval   int      `yaml:"health_check_interval"`
 	HealthCheckMaxRetries int      `yaml:"health_check_max_retries"`

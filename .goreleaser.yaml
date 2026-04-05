@@ -42,7 +42,7 @@ brews:
   - name: portr
     ids:
       - portr
-    homepage: https://github.com/amalshaji/portr
+    homepage: https://github.com/reggie-db/portr
     repository:
       owner: amalshaji
       name: homebrew-taps

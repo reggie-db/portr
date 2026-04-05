@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/amalshaji/portr/internal/client/config"
-	"github.com/amalshaji/portr/internal/utils"
+	"github.com/reggie-db/portr/internal/client/config"
+	"github.com/reggie-db/portr/internal/utils"
 	"github.com/labstack/gommon/color"
 	"github.com/urfave/cli/v2"
 )
@@ -64,7 +64,7 @@ func main() {
 			}
 		} else {
 			if versionToUpdate != "" {
-				fmt.Printf(color.Yellow("A new version of Portr is available: %s. https://github.com/amalshaji/portr/releases/tag/%s\n"), versionToUpdate, versionToUpdate)
+				fmt.Printf(color.Yellow("A new version of Portr is available: %s. https://github.com/reggie-db/portr/releases/tag/%s\n"), versionToUpdate, versionToUpdate)
 			}
 		}
 	}

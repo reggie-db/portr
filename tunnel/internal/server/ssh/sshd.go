@@ -8,13 +8,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/amalshaji/portr/internal/constants"
+	"github.com/reggie-db/portr/internal/constants"
 	"github.com/charmbracelet/log"
 
-	"github.com/amalshaji/portr/internal/server/config"
-	"github.com/amalshaji/portr/internal/server/db"
-	"github.com/amalshaji/portr/internal/server/proxy"
-	"github.com/amalshaji/portr/internal/server/service"
+	"github.com/reggie-db/portr/internal/server/config"
+	"github.com/reggie-db/portr/internal/server/db"
+	"github.com/reggie-db/portr/internal/server/proxy"
+	"github.com/reggie-db/portr/internal/server/service"
 	"github.com/gliderlabs/ssh"
 )
 

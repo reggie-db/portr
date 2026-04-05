@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/amalshaji/portr/internal/client/config"
-	"github.com/amalshaji/portr/internal/constants"
+	"github.com/reggie-db/portr/internal/client/config"
+	"github.com/reggie-db/portr/internal/constants"
 	"github.com/urfave/cli/v2"
 )
 

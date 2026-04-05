@@ -6,10 +6,10 @@ import (
 	"os"
 	"slices"
 
-	"github.com/amalshaji/portr/internal/client/config"
-	"github.com/amalshaji/portr/internal/client/db"
-	"github.com/amalshaji/portr/internal/client/ssh"
-	"github.com/amalshaji/portr/internal/client/tui"
+	"github.com/reggie-db/portr/internal/client/config"
+	"github.com/reggie-db/portr/internal/client/db"
+	"github.com/reggie-db/portr/internal/client/ssh"
+	"github.com/reggie-db/portr/internal/client/tui"
 	tea "github.com/charmbracelet/bubbletea"
 )
 

@@ -50,6 +50,6 @@ make runserver
 
 This should run the migrations and start the server. You can access the server at [http://localhost:8000](http://localhost:8000)
 
-For more commands, check out the [admin makefile](https://github.com/amalshaji/portr/blob/main/admin/Makefile).
+For more commands, check out the [admin makefile](https://github.com/reggie-db/portr/blob/main/admin/Makefile).
 
-For settings, check out the [admin config file](https://github.com/amalshaji/portr/blob/main/admin/config/settings.py).
+For settings, check out the [admin config file](https://github.com/reggie-db/portr/blob/main/admin/config/settings.py).

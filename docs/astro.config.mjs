@@ -19,7 +19,7 @@ export default defineConfig({
         "@fontsource/geist-mono/400.css",
       ],
       social: {
-        github: "https://github.com/amalshaji/portr",
+        github: "https://github.com/reggie-db/portr",
         twitter: "https://twitter.com/amal_ytics",
       },
       components: {

@@ -6,13 +6,13 @@ In this guide you will get an overview of the contribution workflow from opening
 
 ### Create a new issue
 
-- [Check to make sure](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments) someone hasn't already opened a similar [issue](https://github.com/amalshaji/portr/issues).
-- If a similar issue doesn't exist, open a new issue using a relevant [issue form](https://github.com/amalshaji/portr/issues/new/choose).
+- [Check to make sure](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments) someone hasn't already opened a similar [issue](https://github.com/reggie-db/portr/issues).
+- If a similar issue doesn't exist, open a new issue using a relevant [issue form](https://github.com/reggie-db/portr/issues/new/choose).
 
 ### Pick up an issue to solve
 
-- Scan through our [existing issues](https://github.com/amalshaji/portr/issues) to find one that interests you.
-- The [👋 good first issue](https://github.com/amalshaji/portr/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%91%8B+good+first+issue%22) is a good place to start exploring issues that are well-groomed for newcomers.
+- Scan through our [existing issues](https://github.com/reggie-db/portr/issues) to find one that interests you.
+- The [👋 good first issue](https://github.com/reggie-db/portr/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%91%8B+good+first+issue%22) is a good place to start exploring issues that are well-groomed for newcomers.
 - Do not hesitate to ask for more details or clarifying questions on the issue!
 - Communicate on the issue you are intended to pick up _before_ starting working on it.
 - Every issue that gets picked up will have an expected timeline for the implementation, the issue may be reassigned after the expected timeline. Please be responsible and proactive on the communication 🙇‍♂️

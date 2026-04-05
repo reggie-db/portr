@@ -7,7 +7,6 @@ class Settings(BaseSettings):
     debug: bool = Field(default=False, alias="PORTR_ADMIN_DEBUG")
     db_url: str = Field(alias="PORTR_DB_URL")
     domain: str
-    use_vite: bool = Field(default=False, alias="PORTR_ADMIN_USE_VITE")
     encryption_key: str = Field(alias="PORTR_ADMIN_ENCRYPTION_KEY")
 
     github_client_id: str | None = Field(None, alias="PORTR_ADMIN_GITHUB_CLIENT_ID")

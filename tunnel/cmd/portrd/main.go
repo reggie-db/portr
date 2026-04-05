@@ -7,12 +7,12 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/amalshaji/portr/internal/server/config"
-	"github.com/amalshaji/portr/internal/server/cron"
-	"github.com/amalshaji/portr/internal/server/db"
-	"github.com/amalshaji/portr/internal/server/proxy"
-	"github.com/amalshaji/portr/internal/server/service"
-	sshd "github.com/amalshaji/portr/internal/server/ssh"
+	"github.com/reggie-db/portr/internal/server/config"
+	"github.com/reggie-db/portr/internal/server/cron"
+	"github.com/reggie-db/portr/internal/server/db"
+	"github.com/reggie-db/portr/internal/server/proxy"
+	"github.com/reggie-db/portr/internal/server/service"
+	sshd "github.com/reggie-db/portr/internal/server/ssh"
 	"github.com/urfave/cli/v2"
 )
 

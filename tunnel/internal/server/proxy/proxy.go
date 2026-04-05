@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/amalshaji/portr/internal/server/config"
-	"github.com/amalshaji/portr/internal/utils"
+	"github.com/reggie-db/portr/internal/server/config"
+	"github.com/reggie-db/portr/internal/utils"
 	"github.com/charmbracelet/log"
 )
 

@@ -7,7 +7,7 @@ export function StructuredData() {
     description: "Self-hosted tunnel solution designed for teams",
     foundingDate: "2024",
     sameAs: [
-      "https://github.com/amalshaji/portr",
+      "https://github.com/reggie-db/portr",
       "https://news.ycombinator.com/item?id=39913197",
     ],
   };
@@ -19,7 +19,7 @@ export function StructuredData() {
     description:
       "Self-hosted tunnel solution designed for teams. Expose local HTTP, TCP, or WebSocket connections to the public internet.",
     url: "https://portr.dev",
-    downloadUrl: "https://github.com/amalshaji/portr/releases",
+    downloadUrl: "https://github.com/reggie-db/portr/releases",
     operatingSystem: ["Windows", "macOS", "Linux"],
     applicationCategory: "DeveloperApplication",
     offers: {

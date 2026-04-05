@@ -30,4 +30,4 @@ time=2024-03-29T19:16:35.023+05:30 level=INFO msg="Starting 1 cron jobs"
 
 This starts the ssh server on port `:2222` and proxy server on port `:8001`
 
-For all configuration variables, check out the [tunnel server config file](https://github.com/amalshaji/portr/blob/main/tunnel/internal/server/config/config.go).
+For all configuration variables, check out the [tunnel server config file](https://github.com/reggie-db/portr/blob/main/tunnel/internal/server/config/config.go).

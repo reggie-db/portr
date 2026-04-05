@@ -28,7 +28,7 @@ FROM python:3.12-slim AS final
 LABEL maintainer="Amal Shaji" \
     org.opencontainers.image.title="Portr Admin" \
     org.opencontainers.image.description="Admin server for Portr" \
-    org.opencontainers.image.source="https://github.com/amalshaji/portr"
+    org.opencontainers.image.source="https://github.com/reggie-db/portr"
 
 ENV PATH="/app/.venv/bin:$PATH" \
     PYTHONPATH="/app/:$PYTHONPATH"

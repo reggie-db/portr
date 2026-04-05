@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/amalshaji/portr/internal/client/config"
+	"github.com/reggie-db/portr/internal/client/config"
 	"github.com/urfave/cli/v2"
 )
 
